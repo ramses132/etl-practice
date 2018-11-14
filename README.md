@@ -4,6 +4,6 @@ ETL python practice with bonobo and beautifullsoup scrapping
 ## Install
 
 ``` console
-  pip install -R requirements.txt --user
+  pip install -r requirements.txt --user
   python etl.py
 ```
